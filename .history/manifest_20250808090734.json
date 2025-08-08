@@ -1,0 +1,14 @@
+{
+  "manifest_version":3, 
+  "name":"Bloqueador de som",
+  "version":"1.0",
+  "description":"Bloqueia o som de qualquer site",
+  "permissions":[
+    "activeTab", "storage"]
+  "background" : {
+    "service_worker": "background.js"
+  }, 
+  "options_page": "options.html"
+  "host_permission": ["<all_urls>"]
+}
+

@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Bloqueador de Som por Site",
+  "version": "1.0",
+  "description": "Silencia automaticamente sites da lista.",
+  "permissions": ["tabs", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html",
+  "host_permissions": ["<all_urls>"]
+}
