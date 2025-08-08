@@ -6,7 +6,8 @@ An intelligent website audio blocker that allows you to mute sound from specific
 
 ## Demo
 
-![Rice-block GIF](./arroz.gif)
+![Rice-block GIF](./arroz.gif)![clideo_editor_a33da8cf28a844a7a6620ed4a961a036](https://github.com/user-attachments/assets/bcc7a6b0-d85e-4a72-aa17-f318eef08a8d)
+
 
 > Substitua `arroz.gif` pelo nome do seu arquivo GIF na pasta do projeto.
 
