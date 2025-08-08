@@ -27,4 +27,4 @@ An intelligent website audio blocker that allows you to mute sound from specific
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/seu-usuario/rice-block.git
+   git clone [[https://github.com/seu-usuario/rice-block.](https://github.com/eduardoanfer/Rice-block/)
